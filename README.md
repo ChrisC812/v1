@@ -42,5 +42,5 @@ FAMU students who drive to campus
 
 ## Scope
 - On a scale from 1 - 10, 6.
-- Eh.
+- A stripped down version of this app would be quite boring to build.
 - Very defined. We have the idea, identified the users and their pain points and created an innovative solution to help alleviate those pains. 
